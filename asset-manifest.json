@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://supratimdey.github.io/csb-pwiuco/static/css/main.c0a9ba6d.chunk.css",
+    "main.js": "https://supratimdey.github.io/csb-pwiuco/static/js/main.6535b2b4.chunk.js",
+    "main.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/main.6535b2b4.chunk.js.map",
+    "runtime-main.js": "https://supratimdey.github.io/csb-pwiuco/static/js/runtime-main.68df05f2.js",
+    "runtime-main.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/runtime-main.68df05f2.js.map",
+    "static/js/2.54175aa1.chunk.js": "https://supratimdey.github.io/csb-pwiuco/static/js/2.54175aa1.chunk.js",
+    "static/js/2.54175aa1.chunk.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/2.54175aa1.chunk.js.map",
+    "index.html": "https://supratimdey.github.io/csb-pwiuco/index.html",
+    "static/css/main.c0a9ba6d.chunk.css.map": "https://supratimdey.github.io/csb-pwiuco/static/css/main.c0a9ba6d.chunk.css.map",
+    "static/js/2.54175aa1.chunk.js.LICENSE.txt": "https://supratimdey.github.io/csb-pwiuco/static/js/2.54175aa1.chunk.js.LICENSE.txt",
+    "static/media/joke-image.54785ad9.jpg": "https://supratimdey.github.io/csb-pwiuco/static/media/joke-image.54785ad9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68df05f2.js",
+    "static/js/2.54175aa1.chunk.js",
+    "static/css/main.c0a9ba6d.chunk.css",
+    "static/js/main.6535b2b4.chunk.js"
+  ]
+}
