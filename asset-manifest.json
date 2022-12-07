@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://supratimdey.github.io/csb-pwiuco/static/css/main.c0a9ba6d.chunk.css",
-    "main.js": "https://supratimdey.github.io/csb-pwiuco/static/js/main.6535b2b4.chunk.js",
-    "main.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/main.6535b2b4.chunk.js.map",
+    "main.js": "https://supratimdey.github.io/csb-pwiuco/static/js/main.ca813a10.chunk.js",
+    "main.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/main.ca813a10.chunk.js.map",
     "runtime-main.js": "https://supratimdey.github.io/csb-pwiuco/static/js/runtime-main.68df05f2.js",
     "runtime-main.js.map": "https://supratimdey.github.io/csb-pwiuco/static/js/runtime-main.68df05f2.js.map",
     "static/js/2.54175aa1.chunk.js": "https://supratimdey.github.io/csb-pwiuco/static/js/2.54175aa1.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.68df05f2.js",
     "static/js/2.54175aa1.chunk.js",
     "static/css/main.c0a9ba6d.chunk.css",
-    "static/js/main.6535b2b4.chunk.js"
+    "static/js/main.ca813a10.chunk.js"
   ]
 }
